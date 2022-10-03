@@ -43,9 +43,9 @@ font-style: normal;
 color: #ec9535;
 }
 
-.container .cigarette span i ::after{
-  content: 'l';
-  color: #fff;
+.container .cigarette span i::after{
+  content: 'L';
+  color: #ccc;
 }
 
 
