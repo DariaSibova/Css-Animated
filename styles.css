@@ -20,5 +20,13 @@ body{
   display: flex;
   justify-content: center;
   align-items: center ;
+}
+
+.container .cigarette{
   transform-style: preserve-3d;
+
+}
+
+.container .cigarette span{
+  position: absolute;
 }
