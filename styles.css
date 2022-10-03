@@ -43,9 +43,10 @@ font-style: normal;
 color: #ec9535;
 }
 
-.container .cigarette span i::after{
+.container .cigarette span i:first-child::after{
   content: 'L';
   color: #ccc;
+  text-transform: lowercase;
 }
 
 
