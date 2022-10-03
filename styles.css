@@ -55,7 +55,9 @@ color: #ec9535;
   text-shadow: -4px 0 2px #000,
   8px 0 20px #f00,
   8px 0 24px #f00,
-  8px 0 0px #222;
+  8px 0 0px #222,
+  12px 0 #555,
+  16px 0 #666;
 
 }
 
