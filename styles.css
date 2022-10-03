@@ -26,6 +26,11 @@ body{
   transform-style: preserve-3d;
 animation: animate 15s linear infinite;
 }
+@keyframes animate{
+  0%{
+    
+  }
+}
 
 .container .cigarette span{
   position: absolute;
