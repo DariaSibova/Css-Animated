@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,300&display=swap');
 
 *{
   margin: 0;
@@ -47,6 +47,10 @@ color: #ec9535;
   content: 'L';
   color: #ccc;
   text-transform: lowercase;
+}
+
+.container .cigarette span i:last-child{
+  color: #f00;
 }
 
 
