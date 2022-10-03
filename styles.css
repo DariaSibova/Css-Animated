@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');
 
 *{
   margin: 0;
@@ -13,4 +13,12 @@ body{
   align-items: center;
   min-height: 100vh;
   background: #222;
+}
+
+.container{
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center ;
+  transform-style: preserve-3d;
 }
