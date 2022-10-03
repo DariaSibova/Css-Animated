@@ -28,7 +28,7 @@ animation: animate 15s linear infinite;
 }
 @keyframes animate{
   0%{
-    
+    transform: perspective(1000px) rotateX(0deg);
   }
 }
 
